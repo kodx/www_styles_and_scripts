@@ -1,4 +1,4 @@
-# [AOL Reader site enhancement]
+# AOL Reader site enhancement
 
 AOL Reader visual style fix and script for opening current article in background tab, by default key is 'h', you can customize this in source.
 

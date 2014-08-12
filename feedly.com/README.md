@@ -1,4 +1,4 @@
-# [Feedly site enhancement]
+# Feedly site enhancement
 
 Feddly.com visual style fix and script for opening current article in background tab, by default key is 'h', you can customize this in source.
 
