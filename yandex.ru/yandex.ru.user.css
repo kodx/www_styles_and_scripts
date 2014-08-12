@@ -4,7 +4,7 @@
 
 @-moz-document domain("yandex.ru") {
 
-div.b-head-stripe {
+div.b-head-stripe, div.b-top-bar__item_has_home {
     display:none;
 }
 
