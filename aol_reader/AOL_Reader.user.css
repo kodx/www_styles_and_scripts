@@ -1,0 +1,45 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("reader.aol.com") {
+
+code, pre {
+    font-family: monospace !important;
+}
+
+body, a, p, h1, h2, h3, h4, h5, h6, input, button, select, textarea, .feed-header, .ui-widget, .nav, .nav-list, .count {
+    font-family: sans-serif !important;
+}
+
+.article-author span {
+    display: inline !important;
+    margin-left: 0pt !important;
+}
+
+.article-date {
+    float: left !important;
+    margin-right: 20px !important;
+}
+
+.article-tags {
+    clear: none !important;;
+}
+
+.article-body h1, .article-body h2, .article-body h3 {
+    margin: 0 !important;;
+}
+
+.reader-ad-container {display: none !Important}
+
+header h2 {
+    font-size: 10pt !important;;
+}
+
+.article-header h2 {
+    line-height: 36px;
+}
+
+.feed-content .article-item-full .btn-group-wrap {
+    margin: 5px 5px 0px 0px;
+}
+
+}

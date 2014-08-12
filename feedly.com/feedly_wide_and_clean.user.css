@@ -1,0 +1,176 @@
+/* Feedly Wide and Clean -> Like Google Reader (kodx) */
+
+@-moz-document domain('feedly.com'){
+div#mainBar { width : 98% !important;}
+div#mainBar { width : 98% !important;}
+div#sideArea { display: none !important; }
+div#feedlyPart { width : 96% !important; margin-top:-20px !important;}
+div#feedlyPage, div#mainArea { width: 100% !important;}
+
+div#mainBar>div>div#feedlyPart0
+{
+    padding-left:15px;
+}
+
+
+.content img { margin-left:0px !important  }
+
+.u100Entry { width: 100% !important; }
+.u100Entry.selectedEntry {
+/*    width: none !important; */
+    width: 100% !important;
+ }
+
+.u100frame{ padding:0 0 0 0 !important; }
+
+.u100frame table{ padding:10px !important; }
+
+.u100Entry iframe { margin-left: 0 !important; }
+
+.area { margin-left:0 !important }
+
+.u100Entry .title { margin-bottom:5px !important }
+
+/*.topWikiWidget.wikiWidget { display: none !important}  Version v10 Fix*/
+
+.entryList .u4Entry,
+#mainArea .u10Entry
+ { max-width:none !important }
+
+/*#floatingBar{ width: 73% !important}*/
+
+#feedlyTabsHolder{ height:100% !important; }
+
+#feedlyTabs { height:100% !important; }
+
+
+/*div#feedlyTabs { width:400px !important; }
+div#feedlyTabsHolder { width:400px !important; }*/
+div#mainArea { width:100% !important; }
+/*BODY.home { background: #FFFFFF; !important; }*/
+
+.entryHeader a.title{
+    max-width:none !important;
+}
+
+.entryBody{
+    max-width: none !important;
+    margin-top: 0px !important;
+}
+
+.content>p:first-child a:first-child,
+.content>p:first-child
+{
+    display:inline-block;
+
+}
+
+.content{
+    width:100% !important;
+}
+
+
+.entryBody,
+.entryBody>*
+{
+    float:left;
+}
+
+.entryBody:after,
+.u100Entry:after
+{
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+/*.websiteCallForAction{
+    display: none !important;
+}*/
+
+.websiteCallForAction{
+    margin: 5px 0px 5px 0px !important;
+    height: 33px !important;
+
+}
+
+.entryBody>.content>br{
+    display:none !important;
+}
+
+
+#feedlyTabs>div:first-child{
+    margin-top:10px !important;
+    margin-bottom:10px !important;
+}
+
+#navSelectorHolder
+{
+    height:30px !important;
+}
+
+#navSelectorHolder div{
+    padding-top:0 !important;
+    padding-bottom: 4px !important;
+}
+
+.tab .list>div:last-child{
+    height:4px !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+
+#recommentationAreaHeadlines>div { width: 28% !important; }
+
+#recommentationAreaHeadlines.topRecommendedEntry,
+#recommentationAreaHeadlines>div>div  { width: 100% !important; }
+
+#recommendationInlineArea .inlineFrame,
+#recommentationAreaHeadlines > div:last-child
+{
+    width:97%  !important;
+}
+
+/*
+.inlineFrameHolder, .inlineFrame, .selectedEntry, .entryBody {
+width:100% !important;
+max-width: 100% !important;
+font-size: 12px !important;
+}
+*/
+
+
+
+/* right sidebar components */
+/*
+#otherSourcesModule {display: none !important; }
+#flickrModule_part,
+#youtubeModule_part,
+#tweetsModule_part,
+#sponsorsModule_part,
+#otherSponsorsModule_part,
+#fusionModule_part,
+#trendsModule_part,
+#timelineModule_part,
+#causesModule_part, */
+
+/* kodx mods */
+
+.websiteCallForAction{
+    display: none !important;
+}
+
+.action,
+.nbrRecommendations,
+.entryBody a {
+    color: rgb(66, 139, 202) !important;
+}
+
+h2 {
+    margin-top: 26px !important;
+    margin-bottom: 16px !important;
+}
+
+}

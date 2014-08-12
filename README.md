@@ -1,4 +1,3 @@
-www_styles_and_scripts
-======================
+## WWW Sites enchancements (Stylish and Greasemonkey)
 
-WWW Sites enchancements (Stylish and Greasemonkey)
+For use with greasemonkey and stylish.

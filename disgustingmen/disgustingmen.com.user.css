@@ -1,0 +1,13 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("disgustingmen.com") {
+
+body {
+    font-family: sans-serif !important;
+}
+
+.post-message {
+    font-family: sans-serif !important;
+}
+
+}

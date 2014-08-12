@@ -1,0 +1,10 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("pythonthusiast.pythonblogs.com") {
+
+p, li, .feedback {
+    letter-spacing: normal !important;
+    font: 11pt sans-serif !important;
+}
+
+}

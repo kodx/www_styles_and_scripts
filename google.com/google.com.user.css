@@ -1,0 +1,21 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("developers.google.com") {
+
+body {
+    font-family: sans-serif, Ubuntu, Liberation Sans, Arial, DejaVu Sans !important;
+    font-size: 10pt !important;
+}
+
+}
+
+@-moz-document domain("mail.google.com") {
+
+/* GMail Letter view contact bar hidden */
+
+td.Bu.y3 {
+    display:none;
+}
+
+}
+

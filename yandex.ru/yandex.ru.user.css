@@ -1,0 +1,11 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+/* Yandex.ru top suggest ad remove */
+
+@-moz-document domain("yandex.ru") {
+
+div.b-head-stripe {
+    display:none;
+}
+
+}
