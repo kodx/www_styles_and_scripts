@@ -1,0 +1,14 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("dillinger.io") {
+
+body, div#preview p{
+    font-family: "Helvetica Neue",Helvetica,"Segoe UI",Arial,freesans,sans-serif !important;
+}
+
+div#preview a {
+    color: #4183C4 !important;
+    text-decoration: none;
+}
+
+}

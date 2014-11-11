@@ -1,0 +1,9 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("slack.com") {
+
+.light_theme .message, #message-input, #col_channels, #team_menu {
+    font-family: sans-serif !important;;
+}
+
+}
