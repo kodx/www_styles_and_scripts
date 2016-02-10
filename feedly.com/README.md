@@ -13,7 +13,7 @@ For user style use the Stylish extension for the browser you prefer.
 Userscript usable only for [Greasemonkey][5]
 
 ## Notes
-Feel free to send any questions or feedback to [baev.egor@gmail.com][1].
+Feel free to send any questions or feedback to [kodxpub@gmail.com][1].
 
 
 [1]: mailto:kodxpub@gmail.com "Email Yegor Bayev"
