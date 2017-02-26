@@ -15,7 +15,7 @@
 Скрипт будет работать с [Greasemonkey][5]
 
 ## Обратная связь
-Пожелания и предложения можно слать по [baev.egor@gmail.com][1].
+Пожелания и предложения можно слать по [kodxpub@gmail.com][1].
 
 [1]: mailto:kodxpub@gmail.com "Email Yegor Bayev"
 [2]: https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe "Stylish for Chrome"
