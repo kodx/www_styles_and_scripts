@@ -43,7 +43,7 @@
 // change color of links
 var ALTERLINKS = 0;
 // use quick answer form
-var USE_QUICK_ANSWER = 1;
+var USE_QUICK_ANSWER = 0;
 
 var THEME;
 // set the default theme in case autodetect fail
