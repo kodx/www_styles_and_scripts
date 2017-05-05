@@ -1,0 +1,23 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("doc.rust-lang.org") {
+
+  body.light, div.sidebar {
+    background-color: #edeaea !important;
+    font-family: "Open Sans", sans-serif;
+  }
+
+  div.content {
+    font-size: 12pt;
+  }
+
+  code.language-rust, code.language-text, code.hljs {
+    font-family: "Consolas", monospace;
+    background: #F7F7F7 !important;
+    color: #333 !important;
+  }
+
+  span.hljs-comment {
+    color: #7A7A7A;
+  }
+}
