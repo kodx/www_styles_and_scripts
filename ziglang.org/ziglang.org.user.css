@@ -1,0 +1,17 @@
+/*
+==UserCSS==
+@name               ziglang.org code font
+@description        CSS Code style for ziglang.org
+@author             kodx <kodx.org>
+@match              https://ziglang.org/*
+@version            1.0
+@updateURL          https://github.com/kodx/www_styles_and_scripts/raw/master/ziglang.org/ziglang.org.user.css
+==/UserCSS==
+*/
+
+code,
+samp,
+kbd {
+    font-family: "Fira Code", "Cousine", "Consolas", Monospace;
+    font-size: 10pt;
+}
